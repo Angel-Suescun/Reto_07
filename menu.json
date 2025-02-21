@@ -1,0 +1,1098 @@
+{
+    "Men\u00fa Principal": [
+        {
+            "nombre": "Coca Cola",
+            "precio": 2.5,
+            "caracteristicas": [
+                "Bebida",
+                [
+                    "Fr\u00c3\u00ada",
+                    "Gaseosa"
+                ]
+            ]
+        },
+        {
+            "nombre": "Ensalada C\u00c3\u00a9sar",
+            "precio": 4.75,
+            "caracteristicas": [
+                "Ensalada",
+                [
+                    "Lechuga",
+                    "Pollo",
+                    "Aderezo"
+                ]
+            ]
+        },
+        {
+            "nombre": "Sopa de Tomate",
+            "precio": 3.5,
+            "caracteristicas": [
+                "Sopa",
+                [
+                    "Tomate",
+                    "Especias",
+                    "Crema"
+                ]
+            ]
+        }
+    ],
+    "Almuerzo": [
+        {
+            "nombre": "Coca Cola",
+            "precio": 2.5,
+            "caracteristicas": [
+                "Bebida",
+                [
+                    "Fr\u00eda",
+                    "Gaseosa"
+                ]
+            ]
+        },
+        {
+            "nombre": "Ensalada C\u00e9sar",
+            "precio": 4.75,
+            "caracteristicas": [
+                "Ensalada",
+                [
+                    "Lechuga",
+                    "Pollo",
+                    "Aderezo"
+                ]
+            ]
+        },
+        {
+            "nombre": "Sopa de Tomate",
+            "precio": 3.5,
+            "caracteristicas": [
+                "Sopa",
+                [
+                    "Tomate",
+                    "Especias",
+                    "Crema"
+                ]
+            ]
+        }
+    ],
+    "Men\u00fa Completo": [
+        {
+            "nombre": "Caf\u00e9",
+            "precio": 2000,
+            "caracteristicas": [
+                "ml",
+                200
+            ]
+        },
+        {
+            "nombre": "Jugo de Lulo",
+            "precio": 2500,
+            "caracteristicas": [
+                "ml",
+                250
+            ]
+        },
+        {
+            "nombre": "Agua de panela",
+            "precio": 1500,
+            "caracteristicas": [
+                "ml",
+                300
+            ]
+        },
+        {
+            "nombre": "Arepa con queso",
+            "precio": 8000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arepa",
+                    "queso"
+                ]
+            ]
+        },
+        {
+            "nombre": "Bandeja Paisa",
+            "precio": 25000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arroz",
+                    "frijoles",
+                    "huevo",
+                    "carne",
+                    "chicharr\u00f3n",
+                    "aguacate"
+                ]
+            ]
+        },
+        {
+            "nombre": "Sancocho de gallina",
+            "precio": 15000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "gallina",
+                    "yuca",
+                    "papas",
+                    "pl\u00e1tano"
+                ]
+            ]
+        },
+        {
+            "nombre": "Ajiaco",
+            "precio": 18000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "pollo",
+                    "papas",
+                    "mazorca",
+                    "guasca"
+                ]
+            ]
+        },
+        {
+            "nombre": "Empanadas",
+            "precio": 3500,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "harina de ma\u00edz",
+                    "carne",
+                    "papas"
+                ]
+            ]
+        },
+        {
+            "nombre": "Bandeja De Pescado",
+            "precio": 22000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arroz",
+                    "pescado frito",
+                    "patacones",
+                    "ensalada",
+                    "aguacate"
+                ]
+            ]
+        },
+        {
+            "nombre": "Tamales",
+            "precio": 7000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "masa de ma\u00edz",
+                    "carne",
+                    "pollo",
+                    "papa",
+                    "zanahoria"
+                ]
+            ]
+        },
+        {
+            "nombre": "Arroz con Leche",
+            "precio": 3500,
+            "caracteristicas": [
+                "g",
+                200
+            ]
+        },
+        {
+            "nombre": "Pastel Tres Leches",
+            "precio": 5000,
+            "caracteristicas": [
+                "g",
+                180
+            ]
+        },
+        {
+            "nombre": "Torta de Guan\u00e1bana",
+            "precio": 4500,
+            "caracteristicas": [
+                "g",
+                150
+            ]
+        },
+        {
+            "nombre": "Ensalada Mixta",
+            "precio": 4000,
+            "caracteristicas": [
+                "taz\u00f3n",
+                1
+            ]
+        },
+        {
+            "nombre": "Ensalada de Pasta",
+            "precio": 5000,
+            "caracteristicas": [
+                "plato",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Lentejas",
+            "precio": 6000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Carne",
+            "precio": 8000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Vegetales",
+            "precio": 7000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Arepas con Huevo",
+            "precio": 5000,
+            "caracteristicas": [
+                "unidades",
+                2
+            ]
+        },
+        {
+            "nombre": "Calentado",
+            "precio": 7000,
+            "caracteristicas": [
+                "porci\u00f3n",
+                1
+            ]
+        },
+        {
+            "nombre": "Empanadas con Aji",
+            "precio": 4500,
+            "caracteristicas": [
+                "unidades",
+                3
+            ]
+        },
+        {
+            "nombre": "Caf\u00e9",
+            "precio": 2000,
+            "caracteristicas": [
+                "ml",
+                200
+            ]
+        },
+        {
+            "nombre": "Jugo de Lulo",
+            "precio": 2500,
+            "caracteristicas": [
+                "ml",
+                250
+            ]
+        },
+        {
+            "nombre": "Agua de panela",
+            "precio": 1500,
+            "caracteristicas": [
+                "ml",
+                300
+            ]
+        },
+        {
+            "nombre": "Arepa con queso",
+            "precio": 8000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arepa",
+                    "queso"
+                ]
+            ]
+        },
+        {
+            "nombre": "Bandeja Paisa",
+            "precio": 25000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arroz",
+                    "frijoles",
+                    "huevo",
+                    "carne",
+                    "chicharr\u00f3n",
+                    "aguacate"
+                ]
+            ]
+        },
+        {
+            "nombre": "Sancocho de gallina",
+            "precio": 15000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "gallina",
+                    "yuca",
+                    "papas",
+                    "pl\u00e1tano"
+                ]
+            ]
+        },
+        {
+            "nombre": "Ajiaco",
+            "precio": 18000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "pollo",
+                    "papas",
+                    "mazorca",
+                    "guasca"
+                ]
+            ]
+        },
+        {
+            "nombre": "Empanadas",
+            "precio": 3500,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "harina de ma\u00edz",
+                    "carne",
+                    "papas"
+                ]
+            ]
+        },
+        {
+            "nombre": "Bandeja De Pescado",
+            "precio": 22000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arroz",
+                    "pescado frito",
+                    "patacones",
+                    "ensalada",
+                    "aguacate"
+                ]
+            ]
+        },
+        {
+            "nombre": "Tamales",
+            "precio": 7000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "masa de ma\u00edz",
+                    "carne",
+                    "pollo",
+                    "papa",
+                    "zanahoria"
+                ]
+            ]
+        },
+        {
+            "nombre": "Arroz con Leche",
+            "precio": 3500,
+            "caracteristicas": [
+                "g",
+                200
+            ]
+        },
+        {
+            "nombre": "Pastel Tres Leches",
+            "precio": 5000,
+            "caracteristicas": [
+                "g",
+                180
+            ]
+        },
+        {
+            "nombre": "Torta de Guan\u00e1bana",
+            "precio": 4500,
+            "caracteristicas": [
+                "g",
+                150
+            ]
+        },
+        {
+            "nombre": "Ensalada Mixta",
+            "precio": 4000,
+            "caracteristicas": [
+                "taz\u00f3n",
+                1
+            ]
+        },
+        {
+            "nombre": "Ensalada de Pasta",
+            "precio": 5000,
+            "caracteristicas": [
+                "plato",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Lentejas",
+            "precio": 6000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Carne",
+            "precio": 8000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Vegetales",
+            "precio": 7000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Arepas con Huevo",
+            "precio": 5000,
+            "caracteristicas": [
+                "unidades",
+                2
+            ]
+        },
+        {
+            "nombre": "Calentado",
+            "precio": 7000,
+            "caracteristicas": [
+                "porci\u00f3n",
+                1
+            ]
+        },
+        {
+            "nombre": "Empanadas con Aji",
+            "precio": 4500,
+            "caracteristicas": [
+                "unidades",
+                3
+            ]
+        },
+        {
+            "nombre": "Caf\u00e9",
+            "precio": 2000,
+            "caracteristicas": [
+                "ml",
+                200
+            ]
+        },
+        {
+            "nombre": "Jugo de Lulo",
+            "precio": 2500,
+            "caracteristicas": [
+                "ml",
+                250
+            ]
+        },
+        {
+            "nombre": "Agua de panela",
+            "precio": 1500,
+            "caracteristicas": [
+                "ml",
+                300
+            ]
+        },
+        {
+            "nombre": "Arepa con queso",
+            "precio": 8000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arepa",
+                    "queso"
+                ]
+            ]
+        },
+        {
+            "nombre": "Bandeja Paisa",
+            "precio": 25000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arroz",
+                    "frijoles",
+                    "huevo",
+                    "carne",
+                    "chicharr\u00f3n",
+                    "aguacate"
+                ]
+            ]
+        },
+        {
+            "nombre": "Sancocho de gallina",
+            "precio": 15000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "gallina",
+                    "yuca",
+                    "papas",
+                    "pl\u00e1tano"
+                ]
+            ]
+        },
+        {
+            "nombre": "Ajiaco",
+            "precio": 18000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "pollo",
+                    "papas",
+                    "mazorca",
+                    "guasca"
+                ]
+            ]
+        },
+        {
+            "nombre": "Empanadas",
+            "precio": 3500,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "harina de ma\u00edz",
+                    "carne",
+                    "papas"
+                ]
+            ]
+        },
+        {
+            "nombre": "Bandeja De Pescado",
+            "precio": 22000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arroz",
+                    "pescado frito",
+                    "patacones",
+                    "ensalada",
+                    "aguacate"
+                ]
+            ]
+        },
+        {
+            "nombre": "Tamales",
+            "precio": 7000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "masa de ma\u00edz",
+                    "carne",
+                    "pollo",
+                    "papa",
+                    "zanahoria"
+                ]
+            ]
+        },
+        {
+            "nombre": "Arroz con Leche",
+            "precio": 3500,
+            "caracteristicas": [
+                "g",
+                200
+            ]
+        },
+        {
+            "nombre": "Pastel Tres Leches",
+            "precio": 5000,
+            "caracteristicas": [
+                "g",
+                180
+            ]
+        },
+        {
+            "nombre": "Torta de Guan\u00e1bana",
+            "precio": 4500,
+            "caracteristicas": [
+                "g",
+                150
+            ]
+        },
+        {
+            "nombre": "Ensalada Mixta",
+            "precio": 4000,
+            "caracteristicas": [
+                "taz\u00f3n",
+                1
+            ]
+        },
+        {
+            "nombre": "Ensalada de Pasta",
+            "precio": 5000,
+            "caracteristicas": [
+                "plato",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Lentejas",
+            "precio": 6000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Carne",
+            "precio": 8000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Vegetales",
+            "precio": 7000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Arepas con Huevo",
+            "precio": 5000,
+            "caracteristicas": [
+                "unidades",
+                2
+            ]
+        },
+        {
+            "nombre": "Calentado",
+            "precio": 7000,
+            "caracteristicas": [
+                "porci\u00f3n",
+                1
+            ]
+        },
+        {
+            "nombre": "Empanadas con Aji",
+            "precio": 4500,
+            "caracteristicas": [
+                "unidades",
+                3
+            ]
+        },
+        {
+            "nombre": "Caf\u00e9",
+            "precio": 2000,
+            "caracteristicas": [
+                "ml",
+                200
+            ]
+        },
+        {
+            "nombre": "Jugo de Lulo",
+            "precio": 2500,
+            "caracteristicas": [
+                "ml",
+                250
+            ]
+        },
+        {
+            "nombre": "Agua de panela",
+            "precio": 1500,
+            "caracteristicas": [
+                "ml",
+                300
+            ]
+        },
+        {
+            "nombre": "Arepa con queso",
+            "precio": 8000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arepa",
+                    "queso"
+                ]
+            ]
+        },
+        {
+            "nombre": "Bandeja Paisa",
+            "precio": 25000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arroz",
+                    "frijoles",
+                    "huevo",
+                    "carne",
+                    "chicharr\u00f3n",
+                    "aguacate"
+                ]
+            ]
+        },
+        {
+            "nombre": "Sancocho de gallina",
+            "precio": 15000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "gallina",
+                    "yuca",
+                    "papas",
+                    "pl\u00e1tano"
+                ]
+            ]
+        },
+        {
+            "nombre": "Ajiaco",
+            "precio": 18000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "pollo",
+                    "papas",
+                    "mazorca",
+                    "guasca"
+                ]
+            ]
+        },
+        {
+            "nombre": "Empanadas",
+            "precio": 3500,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "harina de ma\u00edz",
+                    "carne",
+                    "papas"
+                ]
+            ]
+        },
+        {
+            "nombre": "Bandeja De Pescado",
+            "precio": 22000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arroz",
+                    "pescado frito",
+                    "patacones",
+                    "ensalada",
+                    "aguacate"
+                ]
+            ]
+        },
+        {
+            "nombre": "Tamales",
+            "precio": 7000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "masa de ma\u00edz",
+                    "carne",
+                    "pollo",
+                    "papa",
+                    "zanahoria"
+                ]
+            ]
+        },
+        {
+            "nombre": "Arroz con Leche",
+            "precio": 3500,
+            "caracteristicas": [
+                "g",
+                200
+            ]
+        },
+        {
+            "nombre": "Pastel Tres Leches",
+            "precio": 5000,
+            "caracteristicas": [
+                "g",
+                180
+            ]
+        },
+        {
+            "nombre": "Torta de Guan\u00e1bana",
+            "precio": 4500,
+            "caracteristicas": [
+                "g",
+                150
+            ]
+        },
+        {
+            "nombre": "Ensalada Mixta",
+            "precio": 4000,
+            "caracteristicas": [
+                "taz\u00f3n",
+                1
+            ]
+        },
+        {
+            "nombre": "Ensalada de Pasta",
+            "precio": 5000,
+            "caracteristicas": [
+                "plato",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Lentejas",
+            "precio": 6000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Carne",
+            "precio": 8000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Vegetales",
+            "precio": 7000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Arepas con Huevo",
+            "precio": 5000,
+            "caracteristicas": [
+                "unidades",
+                2
+            ]
+        },
+        {
+            "nombre": "Calentado",
+            "precio": 7000,
+            "caracteristicas": [
+                "porci\u00f3n",
+                1
+            ]
+        },
+        {
+            "nombre": "Empanadas con Aji",
+            "precio": 4500,
+            "caracteristicas": [
+                "unidades",
+                3
+            ]
+        },
+        {
+            "nombre": "Caf\u00e9",
+            "precio": 2000,
+            "caracteristicas": [
+                "ml",
+                200
+            ]
+        },
+        {
+            "nombre": "Jugo de Lulo",
+            "precio": 2500,
+            "caracteristicas": [
+                "ml",
+                250
+            ]
+        },
+        {
+            "nombre": "Agua de panela",
+            "precio": 1500,
+            "caracteristicas": [
+                "ml",
+                300
+            ]
+        },
+        {
+            "nombre": "Arepa con queso",
+            "precio": 8000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arepa",
+                    "queso"
+                ]
+            ]
+        },
+        {
+            "nombre": "Bandeja Paisa",
+            "precio": 25000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arroz",
+                    "frijoles",
+                    "huevo",
+                    "carne",
+                    "chicharr\u00f3n",
+                    "aguacate"
+                ]
+            ]
+        },
+        {
+            "nombre": "Sancocho de gallina",
+            "precio": 15000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "gallina",
+                    "yuca",
+                    "papas",
+                    "pl\u00e1tano"
+                ]
+            ]
+        },
+        {
+            "nombre": "Ajiaco",
+            "precio": 18000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "pollo",
+                    "papas",
+                    "mazorca",
+                    "guasca"
+                ]
+            ]
+        },
+        {
+            "nombre": "Empanadas",
+            "precio": 3500,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "harina de ma\u00edz",
+                    "carne",
+                    "papas"
+                ]
+            ]
+        },
+        {
+            "nombre": "Bandeja De Pescado",
+            "precio": 22000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "arroz",
+                    "pescado frito",
+                    "patacones",
+                    "ensalada",
+                    "aguacate"
+                ]
+            ]
+        },
+        {
+            "nombre": "Tamales",
+            "precio": 7000,
+            "caracteristicas": [
+                "ingredientes",
+                [
+                    "masa de ma\u00edz",
+                    "carne",
+                    "pollo",
+                    "papa",
+                    "zanahoria"
+                ]
+            ]
+        },
+        {
+            "nombre": "Arroz con Leche",
+            "precio": 3500,
+            "caracteristicas": [
+                "g",
+                200
+            ]
+        },
+        {
+            "nombre": "Pastel Tres Leches",
+            "precio": 5000,
+            "caracteristicas": [
+                "g",
+                180
+            ]
+        },
+        {
+            "nombre": "Torta de Guan\u00e1bana",
+            "precio": 4500,
+            "caracteristicas": [
+                "g",
+                150
+            ]
+        },
+        {
+            "nombre": "Ensalada Mixta",
+            "precio": 4000,
+            "caracteristicas": [
+                "taz\u00f3n",
+                1
+            ]
+        },
+        {
+            "nombre": "Ensalada de Pasta",
+            "precio": 5000,
+            "caracteristicas": [
+                "plato",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Lentejas",
+            "precio": 6000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Carne",
+            "precio": 8000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Sopa de Vegetales",
+            "precio": 7000,
+            "caracteristicas": [
+                "temperatura",
+                1
+            ]
+        },
+        {
+            "nombre": "Arepas con Huevo",
+            "precio": 5000,
+            "caracteristicas": [
+                "unidades",
+                2
+            ]
+        },
+        {
+            "nombre": "Calentado",
+            "precio": 7000,
+            "caracteristicas": [
+                "porci\u00f3n",
+                1
+            ]
+        },
+        {
+            "nombre": "Empanadas con Aji",
+            "precio": 4500,
+            "caracteristicas": [
+                "unidades",
+                3
+            ]
+        }
+    ]
+}
